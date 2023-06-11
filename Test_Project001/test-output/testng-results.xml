@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-11T18:05:43 IST" name="Suite1" finished-at="2023-06-11T18:06:51 IST" duration-ms="67431">
+    <groups>
+    </groups>
+    <test started-at="2023-06-11T18:05:43 IST" name="Test1" finished-at="2023-06-11T18:06:51 IST" duration-ms="67431">
+      <class name="Test.EbayOrder">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Test.EbayOrder@6f43c82]" started-at="2023-06-11T18:05:43 IST" name="beforeTest" finished-at="2023-06-11T18:05:49 IST" duration-ms="6058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Test.EbayOrder@6f43c82]" started-at="2023-06-11T18:05:49 IST" name="setUp" finished-at="2023-06-11T18:05:54 IST" depends-on-methods="BaseTest.BaseClass.beforeTest" duration-ms="4323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="GoogleSearchFunctonality()[pri:0, instance:Test.EbayOrder@6f43c82]" started-at="2023-06-11T18:05:54 IST" name="GoogleSearchFunctonality" finished-at="2023-06-11T18:06:49 IST" duration-ms="55432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleSearchFunctonality -->
+        <test-method is-config="true" signature="exist()[pri:0, instance:Test.EbayOrder@6f43c82]" started-at="2023-06-11T18:06:49 IST" name="exist" finished-at="2023-06-11T18:06:51 IST" duration-ms="1557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exist -->
+      </class> <!-- Test.EbayOrder -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
